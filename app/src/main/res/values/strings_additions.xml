@@ -1,0 +1,10 @@
+<resources>
+	<string name="name_placeholder">John Doe</string>
+	<string name="name_helper">Enter your full name as per ID proof</string>
+	<string name="phone_placeholder">9876543210</string>
+	<string name="phone_helper">Enter 10-digit mobile number</string>
+	<string name="password_requirements">Minimum 8 characters with 1 letter, 1 number</string>
+	<string name="confirm_password_helper">Re-enter your password</string>
+	<string name="agree_to_terms">I agree to the</string>
+	<string name="terms_conditions">Terms &amp; Conditions</string>
+</resources>

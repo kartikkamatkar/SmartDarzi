@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auth_benefits_login">
+        <item>Track your orders easily</item>
+        <item>Save your measurements</item>
+        <item>Get personalized recommendations</item>
+    </string-array>
+
+    <plurals name="cart_items_count">
+        <item quantity="one">%d item in cart</item>
+        <item quantity="other">%d items in cart</item>
+    </plurals>
+</resources>

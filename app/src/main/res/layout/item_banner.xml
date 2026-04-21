@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardBackgroundColor="@color/premium_button"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="2dp">
+
+        <FrameLayout
+            android:id="@+id/bannerRoot"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:layout_width="84dp"
+                android:layout_height="84dp"
+                android:layout_gravity="end|top"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="12dp"
+                android:alpha="0.15"
+                android:background="@drawable/bg_category_icon"
+                android:backgroundTint="@color/premium_accent_gold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="bottom"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/tvBannerTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textSize="21sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvBannerSubtitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:textColor="@color/white_70"
+                    android:textSize="12sp" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnBannerCta"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_marginTop="10dp"
+                    android:backgroundTint="@color/premium_accent_gold"
+                    android:insetTop="0dp"
+                    android:insetBottom="0dp"
+                    android:text="@string/home_explore_services"
+                    android:textAllCaps="false"
+                    android:textColor="@color/premium_button"
+                    android:textSize="12sp"
+                    app:cornerRadius="16dp" />
+            </LinearLayout>
+        </FrameLayout>
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

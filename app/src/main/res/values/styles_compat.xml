@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compatibility alias used by some layouts -->
+    <style name="Widget.Material3.Button.FilledButton" parent="Widget.Material3.Button" />
+</resources>
+

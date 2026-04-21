@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_outfit_title">AI Style Suggestion</string>
+    <string name="ai_outfit_subtitle">Smart outfit combinations curated for your look</string>
+    <string name="ai_outfit_cta">Suggest My Outfit</string>
+
+    <string name="ai_outfit_combo_title_1">Princess Blouse + Silk Skirt</string>
+    <string name="ai_outfit_combo_subtitle_1">Wedding Guest | Ivory and Gold</string>
+    <string name="ai_outfit_combo_title_2">A-Line Kurti + Straight Pants</string>
+    <string name="ai_outfit_combo_subtitle_2">Daily Elegant | Soft Pastel Palette</string>
+    <string name="ai_outfit_combo_title_3">Bandhgala + Tailored Trousers</string>
+    <string name="ai_outfit_combo_subtitle_3">Evening Formal | Charcoal and Black</string>
+    <string name="ai_outfit_combo_title_4">Formal Shirt + Slim Trousers</string>
+    <string name="ai_outfit_combo_subtitle_4">Office Ready | White and Navy</string>
+    <string name="ai_outfit_combo_title_5">Anarkali Suit + Churidar</string>
+    <string name="ai_outfit_combo_subtitle_5">Festive Grace | Emerald and Cream</string>
+    <string name="ai_outfit_combo_title_6">Sharara Set + Short Kurti</string>
+    <string name="ai_outfit_combo_subtitle_6">Celebration Edit | Rose and Gold</string>
+    <string name="ai_outfit_combo_title_7">Classic Blazer + Pleated Trousers</string>
+    <string name="ai_outfit_combo_subtitle_7">Smart Casual | Graphite and Beige</string>
+    <string name="ai_outfit_combo_title_8">Nehru Jacket + Linen Kurta</string>
+    <string name="ai_outfit_combo_subtitle_8">Wedding Daylight | Sand and Ivory</string>
+    <string name="ai_outfit_combo_title_9">Cape Dress + Straight Pants</string>
+    <string name="ai_outfit_combo_subtitle_9">Contemporary Fusion | Black and Bronze</string>
+    <string name="ai_outfit_combo_title_10">Silk Saree Blouse + Palazzo</string>
+    <string name="ai_outfit_combo_subtitle_10">Evening Luxe | Plum and Gold</string>
+</resources>
+

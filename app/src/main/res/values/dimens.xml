@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_s">8dp</dimen>
+    <dimen name="spacing_m">16dp</dimen>
+    <dimen name="spacing_l">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="card_corner">16dp</dimen>
+    <dimen name="button_corner">12dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+
+    <!-- Spacing -->
+    <dimen name="screen_padding_horizontal">16dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="section_gap">24dp</dimen>
+    
+    <!-- Radii -->
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="button_corner_radius">12dp</dimen>
+    <dimen name="chip_corner_radius">20dp</dimen>
+    
+    <!-- Elevations -->
+    <dimen name="card_elevation">4dp</dimen>
+    
+    <!-- Typography -->
+    <dimen name="text_h1">28sp</dimen>
+    <dimen name="text_h2">22sp</dimen>
+    <dimen name="text_h3">18sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_button">16sp</dimen>
+</resources>

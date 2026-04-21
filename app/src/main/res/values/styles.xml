@@ -1,0 +1,37 @@
+<resources>
+    <style name="AppTheme" parent="Theme.SmartDarzi">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+
+    <!-- Bottom Navigation Active Indicator Style -->
+    <style name="ActiveIndicatorStyle" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/gray_100</item>
+        <item name="android:radius">16dp</item>
+        <item name="android:height">32dp</item>
+        <item name="android:width">64dp</item>
+    </style>
+
+    <!-- App-specific text appearances -->
+    <style name="TextAppearance.SmartDarzi.LabelMedium" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TextAppearance.SmartDarzi.LabelSmall" parent="TextAppearance.Material3.LabelSmall">
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <style name="TextAppearance.SmartDarzi.BottomNav" parent="TextAppearance.Material3.LabelSmall">
+        <item name="android:textSize">11sp</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <!-- Tab Text Appearance for pill-style tabs -->
+    <style name="TabTextAppearance" parent="TextAppearance.Material3.LabelLarge">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+</resources>

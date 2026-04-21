@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ============================== -->
+    <!-- UBER DESIGN SYSTEM - COLORS    -->
+    <!-- ============================== -->
+
+    <!-- Primary Brand Colors -->
+    <color name="primary">#0F172A</color>
+    <color name="primary_dark">#0F172A</color>
+    <color name="primary_light">#1E293B</color>
+    <color name="accent">#D4AF37</color>
+    <color name="secondary">#D4AF37</color>
+
+    <!-- Grayscale System -->
+    <color name="gray_50">#F8FAFC</color>
+    <color name="gray_100">#F1F5F9</color>
+    <color name="gray_200">#E2E8F0</color>
+    <color name="gray_300">#CBD5E1</color>
+    <color name="gray_400">#64748B</color>
+    <color name="gray_500">#475569</color>
+    <color name="gray_600">#334155</color>
+    <color name="gray_700">#334155</color>
+    <color name="gray_800">#1E293B</color>
+    <color name="gray_900">#0F172A</color>
+
+    <!-- Background & Surface -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F8FAFC</color>
+    <color name="page_background">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_hint">#475569</color>
+    <color name="text_disabled">#CBD5E1</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_dark">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+
+    <!-- Booking Status Colors -->
+    <color name="status_upcoming">#000000</color>
+    <color name="status_completed">#00A651</color>
+    <color name="status_cancelled">#E94560</color>
+    <color name="status_pending">#FF6B00</color>
+    <color name="status_in_progress">#1E88E5</color>
+
+    <!-- Semantic Colors -->
+    <color name="divider">#EEEEEE</color>
+    <color name="ripple">#1A000000</color>
+    <color name="bottom_nav_bg">#FFFFFF</color>
+    <color name="card_shadow">#1A000000</color>
+    <color name="overlay_dark">#80000000</color>
+    <color name="shimmer_base">#F6F6F6</color>
+    <color name="shimmer_highlight">#FFFFFF</color>
+
+    <!-- Core Palette -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="premium_bg">#F8FAFC</color>
+    <color name="premium_card">#FFFFFF</color>
+    <color name="premium_text_primary">#111827</color>
+    <color name="premium_text_secondary">#4B5563</color>
+    <color name="premium_button">#0F172A</color>
+    <color name="premium_accent_gold">#D4AF37</color>
+    <color name="premium_accent">#D4AF37</color>
+    <color name="premium_border">#E5E7EB</color>
+    <color name="transparent">#00000000</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="black_10">#1A000000</color>
+    <color name="black_20">#33000000</color>
+
+    <!-- Material 3 Compatibility -->
+    <color name="on_surface">#000000</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_surface_variant">#666666</color>
+    <color name="on_surface_variant_60">#99666666</color>
+    <color name="app_border">#EEEEEE</color>
+    <color name="primary_container">#F6F6F6</color>
+    <color name="on_primary_container">#000000</color>
+    <color name="surface_container">#F6F6F6</color>
+    <color name="surface_muted">#EEEEEE</color>
+
+    <!-- Category Colors -->
+    <color name="category_color_shirts">#E94560</color>
+    <color name="category_color_pants">#1A1A2E</color>
+    <color name="category_color_suits">#28A745</color>
+    <color name="category_color_kurtas">#FF6B00</color>
+    <color name="category_color_blouses">#9C27B0</color>
+    <color name="category_color_lehengas">#E91E63</color>
+    <color name="category_color_wedding">#FFD700</color>
+    <color name="category_color_alterations">#00BCD4</color>
+    <color name="category_color_custom">#795548</color>
+
+    <!-- Chip Colors -->
+    <color name="chip_selected_bg">#000000</color>
+    <color name="chip_selected_text">#FFFFFF</color>
+    <color name="chip_unselected_bg">#F6F6F6</color>
+    <color name="chip_unselected_text">#000000</color>
+
+    <!-- Input Colors -->
+    <color name="input_underline">#AAAAAA</color>
+    <color name="input_underline_focused">#000000</color>
+
+    <!-- Banner Gradient -->
+    <color name="banner_gradient_start">#000000</color>
+    <color name="banner_gradient_end">#00000000</color>
+
+    <!-- Password Strength -->
+    <color name="strength_weak">#B91C1C</color>
+    <color name="strength_fair">#B45309</color>
+    <color name="strength_good">#D4AF37</color>
+    <color name="strength_strong">#15803D</color>
+    <color name="premium_button_gradient">#0F172A</color>
+    <color name="premium_surface">#FFFFFF</color>
+    <color name="premium_input_bg">#F8FAFC</color>
+
+    <!-- Product Detail Page -->
+    <color name="color_green_badge">#10B981</color>
+    <color name="color_selected_border">#D4AF37</color>
+    <color name="color_swatch_red">#E94560</color>
+    <color name="color_swatch_blue">#3B82F6</color>
+    <color name="color_swatch_green">#10B981</color>
+    <color name="color_swatch_navy">#1E293B</color>
+    <color name="color_swatch_maroon">#7F1D1D</color>
+    <color name="color_swatch_olive">#65712B</color>
+
+</resources>

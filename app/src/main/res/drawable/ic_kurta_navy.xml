@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <!-- Navy kurta -->
+    <path
+        android:fillColor="#001F5C"
+        android:pathData="M32,20 L32,55 L22,68 L22,120 L106,120 L106,68 L96,55 L96,20 Z M44,20 L44,32 L52,32 L52,22 L44,20 Z M76,20 L76,22 L84,32 L84,20 Z M40,28 L88,28 L88,55 L40,55 Z M30,70 L98,70 L98,120 L30,120 Z" />
+</vector>
+
